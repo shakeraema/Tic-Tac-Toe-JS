@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game (JavaScript)
+# 🎮 Tic-Tac-Toe Game (JavaScript)
 
 A simple and interactive Tic-Tac-Toe game built using JavaScript, HTML, and CSS. This project was developed for fun and as a way to practice JavaScript during my 3rd year, 1st semester.
 
@@ -7,7 +7,7 @@ The game allows two players to compete against each other in a classic Tic-Tac-T
 🎮 Live Demo
 
 You can play the game live here:
-Play Tic-Tac-Toe
+[Play Tic-Tac-Toe](https://shakeraema.github.io/Tic-Tac-Toe-JS/)
 
 💻 Features
 
@@ -60,4 +60,4 @@ This project was made for learning and fun. Thanks to all the online tutorials a
 
 📌 Author
 
-Shakera Jannat Ema
+- [Shakera Jannat Ema](https://github.com/shakeraema)
